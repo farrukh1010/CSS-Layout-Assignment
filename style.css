@@ -27,3 +27,15 @@
         font-size: 8 px;
         
     }
+    .nav{
+        background-color: rgb(238 238 238);
+        height: 40px;
+        margin-bottom: 5px;
+        position: relative;
+    }
+    .nav > .navo{
+        position: absolute;
+        padding-top: 12px ; 
+         padding-left: 350px ;
+         font-size: 8 px;
+    }
