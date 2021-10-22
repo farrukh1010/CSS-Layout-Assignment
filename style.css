@@ -93,3 +93,14 @@
         padding-left: 80px;
         font-size: 8 px;
      }
+     .footer{
+        background-color: rgb(238 238 238);
+        height: 40px;
+        position: relative;
+    }
+    .footer > .footero{
+        position: absolute;
+        padding-top: 12px;
+        padding-left: 390px;
+        font-size: 8 px;
+    }
